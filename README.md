@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Dhoru
-This is a test lol
+D
 
 <!---
 Dhoru/Dhoru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
